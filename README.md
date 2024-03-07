@@ -1,5 +1,18 @@
 # -FORR3FL05EU-H-t-Leikjaforritun-II-Monolith-1.1
 
+7 Mar 2024
+I'm sorry to say this but the game doesn't work, like at all. And it's all because of a single erroneous line of code that is integral to the functioning of the dialogue system. And because of that I can't build the game.
+
+So because of all that, I've decided to add some of the stuff that I was going to use on the project to this page, because that's the least that I can do to compensate.
+I added:
+- one unfininsed piece of audio that was supposed to play when the player meets the Monolith.
+- a low quality sketch of how the dialogue section was supposed to look like.
+- two images, one of the Monolith itself and on of the grassfield of the Misbegotten Plane.
+
+I honestly don't deserve an 8 on the last assigment. Maybe 2 or less, but I guess that doesn't matter now since I'm already way past the deadline and the work has already been rated.
+I still want to continue the the project though, but as more of a personal project rather than a school assignment.
+
+
 28 Feb 2024
 This is bit of a shallow update / explaination that I wanted to make because of the lackluster amount of material that I've turned in for the latest assignment (referring to the two screenshots).
 
